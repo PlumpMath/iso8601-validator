@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/spacepluk/iso8601-validator.svg?branch=master)](https://travis-ci.org/spacepluk/iso8601-validator)
+
 iso8601-validator
 =================
 Easily validate your ISO-8601 strings:
